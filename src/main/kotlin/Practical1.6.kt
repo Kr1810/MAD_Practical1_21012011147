@@ -1,12 +1,3 @@
-/*fun main(args: Array<String>)
-{
-    printHello()
-}
-fun printHello()
-{
-    println("Hello, World!")
-}*/
-
 fun main(){
     var a = 111
     var b = 2222
