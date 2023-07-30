@@ -1,4 +1,5 @@
-fun main(args: Array<String>){
+fun main(args: Array<String>)
+{
     val number = 10
     val result :Long
     result = factorial(number)
