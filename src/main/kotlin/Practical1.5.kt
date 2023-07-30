@@ -16,7 +16,7 @@ fun main (){
         10 -> {"October"}
         11 -> {"November"}
         12 -> {"December"}
-        else->{"Please enter proper number!!"}
+        else->{"Please enter proper number!"}
     }
     println("$monthName " )
 }
