@@ -16,7 +16,6 @@ fun main(){
     var uni= readLine()!!
     println("Student Age:")
     var age= readLine()!!
-
     println("****************")
     println("Student's Data:" )
     println("$eno")
