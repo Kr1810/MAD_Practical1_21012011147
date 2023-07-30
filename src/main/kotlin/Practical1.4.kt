@@ -3,9 +3,9 @@ fun main(){
     val a = readLine()?.toIntOrNull()
     if (a!=null){
         if (a%2==0){
-        println("$a is even number")
+        println("$a is even number!")
     }         else{
-        println("$a is odd number")
+        println("$a is odd number!")
     }     }     else{
         println("Please enter valid number!")
     }

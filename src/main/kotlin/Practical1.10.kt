@@ -41,6 +41,6 @@ fun main() {
     val carlist = ArrayList<Car>()
 
     carlist.add(Car("Mahindra,2019", "meera", 150, 4900000.0, 1079000.0))
-    carlist.add(Car("Maruti,2018", "fiza", 390, 6600000.0, 3998000.0))
+    carlist.add(Car("Maruti,2018", "fiza", 390, 6600000.0, 4008000.0))
     carlist[0].displayCarInfo()
     carlist[1].displayCarInfo() }}
